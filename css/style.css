@@ -15,8 +15,8 @@ p {
 
 h1 {
   color: #3E9C87;
-  font-size: 90px;
-  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+  font-family: 'Montserrat', sans-serif;
   margin: 50px auto 0 auto;
 }
 
@@ -36,6 +36,7 @@ h6 {
   color: #3E9C87;
   font-family: 'Montserrat', sans-serif;
   font-weight: bold;
+  font-size: 16px;
 }
 
 hr {
